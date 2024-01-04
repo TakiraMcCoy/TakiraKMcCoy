@@ -1,1 +1,1 @@
-# Hello, My name is TakiraKMcCoy
+# Hello, my name is TakiraKMcCoy
